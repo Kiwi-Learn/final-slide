@@ -17,33 +17,36 @@ footer: Kiwi Learn, 2016/01/11
 
 ---
 
-![](./img/cover.jpeg)
+![fit](./img/overall-view.png)
 
-# Demonstration
 
 
 ---
-![](./img/cover.jpeg)
-![right fit](./img/features.png)
+![](./img/threefeature.png)
 
-# Core Features
-
-- Smart Courses Explore
+<!-- ![right fit](./img/feature.png) -->
+<!-- - Smart Courses Explore
 - Catch the Courses Trend
-- Students Interactivity
+- Students Interactivity -->
 
 ---
 ![](./img/cover.jpeg)
 ![right fit](./img/services.png)
 
-# Services What We Use
+# Services We Use
 
-- Two separate dynos on Heroku
-- Comment hosting on Disqus
-- One table on AWS DynamoDB
-- One Queue on AWS SQS
-- Two workers on IronWorker
-- One cache on Memcachier
+- Two separate dynos on **Heroku**
+- Comment hosting on **Disqus**
+- One table on **AWS DynamoDB**
+- One Queue on **AWS SQS**
+- Two workers on **IronWorker**
+- One cache on **Memcachier**
 
 ---
 ![fit](./img/arch.png)
+
+---
+
+![](./img/cover.jpeg)
+
+# Demonstration
